@@ -1,0 +1,1 @@
+export { default as SecondLayout } from './second-layout';
